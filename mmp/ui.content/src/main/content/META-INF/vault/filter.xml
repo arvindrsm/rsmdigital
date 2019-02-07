@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/mmp"/>
+    <filter root="/content/mmp"/>
+    <filter root="/content/dam/mmp"/>
+</workspaceFilter>
